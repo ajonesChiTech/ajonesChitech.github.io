@@ -6,7 +6,9 @@ GENERAL
 /**********************************
 NAVIGATION 
 ***********************************/
-
+caption{
+    color: red;
+}
 
 
 /**********************************
@@ -26,6 +28,7 @@ HEADER
 }
 
 .portrait_name{
+    
     width:320px;
     margin:0 auto;
     padding:20px;
@@ -93,10 +96,13 @@ footer{
 }
 
 .jumbotron{
-  background: url(http://protiumdesign.com/wp-content/uploads/2015/01/Light-Faling-On-Blue-Blured-Background-1024.jpg) no-repeat center;
+  background: url(http://hdwallpapers.cat/wallpaper/flowers_purple_garden_pink_nature_hd-wallpaper-1591081.jpg) no-repeat center;
   background-size: cover;
 }
 
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
+}
+body{
+    background-color:#400032;
 }
