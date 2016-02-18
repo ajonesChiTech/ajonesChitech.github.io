@@ -6,9 +6,7 @@ GENERAL
 /**********************************
 NAVIGATION 
 ***********************************/
-caption{
-    color: red;
-}
+
 
 
 /**********************************
@@ -105,4 +103,7 @@ footer{
 }
 body{
     background-color:#400032;
+}
+.thumbnail{
+     background-color:#FF63BA;
 }

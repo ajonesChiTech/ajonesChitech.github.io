@@ -50,3 +50,7 @@ Color 1:
 Color 1:
 Color 1:
 ***********************************/
+p{
+  color:#eee !important;
+  font-weight:bold;
+}
